@@ -1,4 +1,7 @@
 # scheduling
+Name: Bradley Kreager
+SID: 012326886
+class: CMPE 142
 
 ## Running
 
