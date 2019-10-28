@@ -1,5 +1,4 @@
-# Operating Systems 
-## Task Scheduler Simulation
+# Operating System Task Scheduler Simulation
 
 ## Running
 
